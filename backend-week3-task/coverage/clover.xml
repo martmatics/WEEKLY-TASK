@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1624225475377" clover="3.2.0">
+  <project timestamp="1624225475378" name="All files">
+    <metrics statements="6" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="1" elements="12" coveredelements="4" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
+    <file name="evenlySpaced.js" path="C:\Users\PRIMART\Desktop\PRIMART-COMPUTERS\ICT-YEP\MATERIALS\backend-weekly-task-1\src\ejoh-akpobome\evenlySpaced.js">
+      <metrics statements="6" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <line num="6" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
