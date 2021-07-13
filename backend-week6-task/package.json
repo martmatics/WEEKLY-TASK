@@ -1,0 +1,23 @@
+{
+  "name": "weekly-task",
+  "version": "1.0.0",
+  "description": "Ecommerce app",
+  "main": "Ecommerce.js",
+  "scripts": {
+    "dev": "nodemon Ecommerce.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martmatics/WEEKLY-TASK.git"
+  },
+  "author": "Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martmatics/WEEKLY-TASK/issues"
+  },
+  "homepage": "https://github.com/martmatics/WEEKLY-TASK#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
